@@ -42,7 +42,6 @@ This makes it useful as a portable, automatic emergency response system for elde
 
 - **ESP32 Devkit V4** – Main microcontroller that reads sensors, processes the AI logic, and controls communication
 - **AD8232 ECG Module** – Captures the electrical activity of the heart
-- **MAX30102 Pulse Oximeter** – Captures PPG signals for pulse and blood pressure estimation
 - **NEO-6M GPS Module** – Tracks live satellite location for emergency alerts
 - **SIM800L GSM Module** – Sends SMS alerts over cellular networks
 - **0.96" I2C OLED Display** – Shows the live ECG graph, BPM, and system status
