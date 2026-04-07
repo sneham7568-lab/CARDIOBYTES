@@ -240,3 +240,5 @@ This project shows how biomedical sensors, an ESP32, and cellular communication 
 - How to design life-saving wearable technology with real-world applications
 
 Anyone familiar with Arduino/ESP32 programming can reproduce and extend this project for advanced biomedical engineering and IoT applications.
+
+All the required codes and prototype images and results obtained are all in the respective folders and files , you can get everything required to reproduce the project . 
