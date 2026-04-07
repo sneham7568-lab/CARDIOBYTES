@@ -198,8 +198,10 @@ cardiobytes-cardiac-monitor/
 │   ├── circuit_schematic.png
 │   └── architecture_flowchart.png
 ├── images/
-│   ├── hardware_setup.jpg
+│   ├── system_setup.jpg
 │   ├── sms_alert_screenshot.jpg
+|   ├── Soldered ECG project prototype
+|   ├── gps_locking_test
 ├── docs/
 │   └── CARDIOBYTES_REPORT.pdf
 └── README.md
