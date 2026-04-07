@@ -25,6 +25,10 @@ If the heart rhythm is normal:
 
 This makes it useful as a portable, automatic emergency response system for elderly patients or individuals with known heart conditions.
 
+## Demo Video
+
+[![Watch the Demo](https://img.youtube.com/vi/MtJ3JKcauSI/maxresdefault.jpg)](https://youtube.com/shorts/MtJ3JKcauSI?feature=share)
+
 ---
 
 ## 2. Main Features
