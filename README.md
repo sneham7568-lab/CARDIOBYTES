@@ -226,6 +226,7 @@ cardiobytes-cardiac-monitor/
 - Integrate advanced **Machine Learning (TinyML)** on the ESP32 to classify specific arrhythmias such as Atrial Fibrillation
 - Design a custom **PCB** to reduce the overall size to fit on a wrist or chest strap
 - Add an **SD Card module** to log heart data over 24 hours (Holter monitor style)
+- Important note is that it is a hackathon modle so the power supply and the connection of the board and proper utilization of the ESP32 board was not acheived.
 
 ---
 
