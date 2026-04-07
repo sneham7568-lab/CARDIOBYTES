@@ -188,7 +188,7 @@ The ESP32 code follows this algorithm:
 
 ---
 
-## 9. Project Structure (Suggested)
+## 9. Project Structure
 
 ```text
 cardiobytes-cardiac-monitor/
@@ -200,9 +200,7 @@ cardiobytes-cardiac-monitor/
 │   └── architecture_flowchart.png
 ├── images/
 │   ├── hardware_setup.jpg
-│   ├── oled_normal_view.jpg
 │   ├── sms_alert_screenshot.jpg
-│   └── ecg_electrodes_placement.jpg
 ├── docs/
 │   └── CARDIOBYTES_REPORT.pdf
 └── README.md
